@@ -1,14 +1,12 @@
-# AED II - Projeto Final
+# Algoritmos e Estrutura de Dados II - Projeto Final - UFABC - 2021.3
 
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 <br>
-Este repositório contém o link para o programa desenvolvido em Python no Google Colab e os arquivos de teste (.txt) utilizados no projeto final.
+Neste projeto foi desenvolvido alguns algoritmos, como o Algoritmo de Huffman e o Algoritmo de Compressão RLE utilizando Python
 
 ## Usage
 
-Segure a tecla [Ctrl] e clique no link abaixo para abrir o Google Colab do projeto em uma nova guia:
-
-[Link do projeto](https://colab.research.google.com/drive/1Y-lVPQsYByn08g6gLV12CKxs6vk1Ke3E?usp=sharing)
+Abra o jupyter notebook e execute todas as células
 
